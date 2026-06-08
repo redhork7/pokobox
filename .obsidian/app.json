@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "dist/",
+    "build/",
+    ".next/",
+    ".git/"
+  ],
+  "showUnsupportedFiles": false
+}
